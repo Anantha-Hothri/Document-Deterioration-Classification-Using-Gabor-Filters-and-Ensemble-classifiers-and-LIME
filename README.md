@@ -39,7 +39,7 @@ This project focuses on preserving cultural heritage by classifying palm-leaf ma
   - Bad: 6,548 chunks
 
 ## Methodology
-![Alt Text](relative/path/to/image "Optional Tooltip")
+![Alt Text](Document-Deterioration-Classification-Using-Gabor-Filters-and-Ensemble-classifiers-and-LIME\pocoloco_docuemntclassification_1.png)
 
 The approach consists of the following steps:
 1. Image Chunking
@@ -73,3 +73,7 @@ The approach consists of the following steps:
 
 ## Acknowledgments
 Special thanks to Amrita Vishwa Vidyapeetham for infrastructure support and team members for their contributions.
+
+## About to Publish Paper
+This study has been accepted into the ICMLDE 2024 conference
+Yet to be pblished in the Procedia Computer Science Journal, Elsevier
